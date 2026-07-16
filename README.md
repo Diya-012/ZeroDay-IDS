@@ -184,7 +184,7 @@ streamlit run app.py
 
 ##  Dashboard
 
-Add screenshots of:
+screenshots:
 
 - Home Dashboard
 ![Home](assests/screenshots/home.png.png)
